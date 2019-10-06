@@ -1,0 +1,1 @@
+hello from company<?php /**PATH /Applications/XAMPP/xamppfiles/htdocs/my_project/resources/views/company/index.blade.php ENDPATH**/ ?>
